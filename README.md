@@ -1,2 +1,2 @@
-# tictaktoe
+# tictactoe
 C Program
